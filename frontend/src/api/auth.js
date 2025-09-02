@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://oralvis-healthcare-0920.onrender.com", 
+  baseURL: "https://oralvis-healthcare-0920.onrender.com/api", 
 });
 
 

@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API = "http://localhost:5000/api/scans";
+const API = "https://oralvis-healthcare-0920.onrender.com";
 
 
 export const uploadScan = async (token, formData) => {
